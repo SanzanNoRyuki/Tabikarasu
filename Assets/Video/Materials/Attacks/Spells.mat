@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Spells
+  m_Shader: {fileID: -6465566751694194690, guid: 130be3e1427967c4288d8c16c6a65ba3, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: e612720fd293c5042b1785772b0e4570, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Disintegration: 1
+    - _Disintegration_Border: 0.1
+    - _Disintegration_Noise_Scale: 75
+    - _Dissolve: 1
+    - _Dissolve_Border: 0
+    - _Dissolve_Noise: 0.25
+    - _Dissolve_Noise_Scale: 10
+    - _EnableExternalAlpha: 0
+    - _Glows: 0
+    - _Implosion: 1
+    - _Implosion_Border: 0.02
+    - _Petrification: 0
+    - _Petrification_Border: 0.01
+    - _Petrification_Noise_Scale: 25
+    m_Colors:
+    - _Color: {r: 0.36862746, g: 1.4980392, b: 0, a: 1}
+    - _Disintegration_Border_Color: {r: 23.96863, g: 23.96863, b: 23.96863, a: 1}
+    - _Dissolve_Border_Color: {r: 23.96863, g: 23.96863, b: 23.96863, a: 1}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _Glow_Color: {r: 32, g: 32, b: 32, a: 1}
+    - _Implosion_Border_Color: {r: 23.96863, g: 23.96863, b: 23.96863, a: 1}
+    - _Petrification_Border_Color: {r: 0.5333334, g: 0.5490196, b: 0.5529412, a: 1}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

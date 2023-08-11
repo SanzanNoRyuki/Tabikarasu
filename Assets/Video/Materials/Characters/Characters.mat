@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Characters
+  m_Shader: {fileID: -6465566751694194690, guid: 130be3e1427967c4288d8c16c6a65ba3, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: cad94366b001fa14f891db867cd44932, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Disintegrate: 0.598
+    - _Disintegrate_Border: 0.036
+    - _Disintegrate_Noise_Scale: 75
+    - _Disintegration: 1
+    - _Disintegration_Border: 0.05
+    - _Disintegration_Noise_Scale: 50
+    - _Dissapear_Border: 0.02
+    - _Dissolve: 1
+    - _DissolveBorder: 0.103
+    - _DissolveNoise: 0.2
+    - _DissolveScale: 75
+    - _Dissolve_Border: 0.05
+    - _Dissolve_Noise: 0.25
+    - _Dissolve_Noise_Scale: 75
+    - _Glow: 0
+    - _Glows: 0
+    - _Implode: 0.13
+    - _Implosion: 1
+    - _Implosion_Border: 0.02
+    - _Petrification: 0
+    - _PetrificationBorder: 0.01
+    - _Petrification_Border: 0.01
+    - _Petrification_Noise_Scale: 25
+    - _Petrification_Scale: 25
+    m_Colors:
+    - _DisintegrateBorderColor: {r: 23.96863, g: 23.96863, b: 23.96863, a: 1}
+    - _Disintegration_Border_Color: {r: 23.96863, g: 23.96863, b: 23.96863, a: 1}
+    - _DissolveBorderColor: {r: 23.96863, g: 23.96863, b: 23.96863, a: 1}
+    - _Dissolve_Border_Color: {r: 23.96863, g: 23.96863, b: 23.96863, a: 1}
+    - _Glow_Color: {r: 1023.9999, g: 1023.9999, b: 1023.9999, a: 1}
+    - _Implode_Border_Color: {r: 43.530205, g: 6.6054316, b: 0, a: 1}
+    - _Implosion_Border_Color: {r: 23.96863, g: 23.96863, b: 23.96863, a: 1}
+    - _PetrificationBorderColor: {r: 0.5333334, g: 0.5490196, b: 0.5529412, a: 1}
+    - _Petrification_Border_Color: {r: 0.5333334, g: 0.5490196, b: 0.5529412, a: 1}
+  m_BuildTextureStacks: []
+--- !u!114 &4121164197758985410
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5

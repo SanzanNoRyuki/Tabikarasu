@@ -1,0 +1,3755 @@
+fileFormatVersion: 2
+guid: 7efadb5a2450fe242aadb6a4d8383620
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ladders_0
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 3832
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a266be8bca1f6f748ad8e41caecdf142
+      internalID: -1899969300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_1
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3836
+        width: 116
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753456a82e950364986424d1505d2b83
+      internalID: 2016943689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_2
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 3840
+        width: 28
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb4e45feb9ec0740a08a89341cc5138
+      internalID: -1724889896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_3
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 3840
+        width: 88
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaaf78f7ce700847b5a555133f6f117
+      internalID: 473315927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_4
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 3584
+        width: 88
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b9c066719df61469282de4c88068a5
+      internalID: -1847359065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_5
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 3584
+        width: 160
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71cd79c2f06d6f478d1b0bfd26f9b0e
+      internalID: -759455569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3620
+        width: 364
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07224f860d777ca4dbd3da19bebce59c
+      internalID: -1341497646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3924
+        width: 132
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200427fb88571034fa56872830f35eca
+      internalID: 757042562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_8
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3748
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252387ed67878ab488f639cd87d6b093
+      internalID: -348658004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_9
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3848
+        width: 132
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e86cb7cc805eac409c300479fbaa6c4
+      internalID: 911402715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_10
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3780
+        width: 132
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd82c7bab7a57442b61284ee9243858
+      internalID: 627350651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_11
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 3748
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210d0d2d1bb651345b0ff89077ebead4
+      internalID: -1069113643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_12
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 3580
+        width: 116
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a123c9a46863c6408d66a1bfbffc621
+      internalID: 782767014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_13
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3580
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56190cf0fc4a9a24d82e2fd9a5c18028
+      internalID: 54078085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_14
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 3584
+        width: 88
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d6b214bdf0e39468e924fea6465fe7
+      internalID: -1270348716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_15
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3568
+        width: 36
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a704e5b83a8b614aa22031c79dd1e6e
+      internalID: -1152097177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_16
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 3572
+        width: 36
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d62375c2fa3a8844acb8a15554d98d3
+      internalID: -320946504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_17
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 3568
+        width: 36
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29a1e89bfddc284fafa0174dbc6e95b
+      internalID: 756744342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_18
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3448
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f7ae76683e3454598eb7721d7dd96c
+      internalID: 2087845114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_19
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3456
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccacc97b79884c4aaea449ac9992044
+      internalID: -427904592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_20
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3476
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4e12df9124c534693b139924051f6e
+      internalID: -265773298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_21
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3328
+        width: 384
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 48, y: 0, z: 80, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c953f9bc19c45d42a4249f7a95a5b18
+      internalID: 1579982328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_22
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3084
+        width: 196
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101cc19162b9c014d994d16c6ffbcd8f
+      internalID: 1848980732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_23
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3372
+        width: 132
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7939b3b6a11c34e8100045f2c9743b
+      internalID: 220255380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_24
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 3080
+        width: 136
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3191cc9433d8de4da51c6f6e56fb407
+      internalID: 303346757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3068
+        width: 244
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3467b11fcee5c7f498a2d6bce5383a3f
+      internalID: -1500331376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_26
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 3236
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eddaab9e878f64284ae85c3c44b0e5
+      internalID: 501204497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_27
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3208
+        width: 140
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d200db1a660ace4da197d778bfcf33a
+      internalID: 164172721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_28
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 384
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 52, y: 0, z: 76, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce6856c119627a4fa01c147964e112b
+      internalID: 1367943970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_29
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 3080
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf1f7fcf1f5e3a40b48ab3449df947a
+      internalID: -532412703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_30
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 3064
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0183eabb960994c8c22b3e5a8738fb
+      internalID: -2138319415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_31
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2808
+        width: 132
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02e379f32b32c041b53613e204db9bf
+      internalID: -2044001384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_32
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 3032
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d59b09830e81fa4ebaf6c4cb0df46c0
+      internalID: -697017133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_33
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 3012
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785dd659f0a3c0e4a80f98817dd034e8
+      internalID: 37424289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_34
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 3012
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ed5a729f0abe5448ae15f86fa91705
+      internalID: -1037142389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_35
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 3012
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8244b31c6ea3074f84acd590b440dfd
+      internalID: 570358104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_36
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 2972
+        width: 120
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806047a00cf1bad4b87925eb4826c81b
+      internalID: 1189481507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_37
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 2796
+        width: 116
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e2967a0cc492c498021f235cc0860f
+      internalID: 1907998485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_38
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2944
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78369c414a954d841b5c6ff5477f251d
+      internalID: -1534520658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_39
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2900
+        width: 384
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 52, y: 0, z: 76, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617657cd3b28e924293d8b3782550ac2
+      internalID: 1476672183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_40
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2836
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30d822b48871b446bcfcdf82974cd7d
+      internalID: 914620875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_41
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 2720
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec5f0f8c47b0ec4a9c49a121ea846a0
+      internalID: 1720631210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_42
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2708
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143492a62d4a9bc4fa267aebedc7a43b
+      internalID: 2108349522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_43
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 2736
+        width: 160
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923aa3f084512e74cab147ce32e562c7
+      internalID: -297492302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_44
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2544
+        width: 112
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954d2c85a94966c429bb94bca84b89ab
+      internalID: -711578617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_45
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2748
+        width: 72
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a72baa2ebc1b8844a75ee3abce207c3
+      internalID: 805409563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_46
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2708
+        width: 116
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b301a3b52de11494d8d3855bdb23b43c
+      internalID: 371268937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_47
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2692
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c15ac9b11db0404896992f1fc1616d0
+      internalID: 1955552403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_48
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 2704
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b6c317b14a01c4e9074d34ad516885
+      internalID: -1368836607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_49
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 2444
+        width: 112
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2560dc2b580428c4cba12a3f3a292389
+      internalID: -1365048976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_50
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 2584
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d92bf0d0b28c784facd97e8d6e5fe02
+      internalID: 1349321518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_51
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2608
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04058ce3d4c34e74e8ee2a17bba6bc62
+      internalID: 440388928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_52
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2588
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb62c360de0e8848aa1e700b7f64a1e
+      internalID: 1664641098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_53
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 2436
+        width: 92
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116cdec7c8e847d44a6167ed3fd824b2
+      internalID: -1695940842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_54
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2612
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95ffc6ff515db242b7045405b61de91
+      internalID: -1765078593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_55
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 2556
+        width: 52
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeca09a175bed2c46ae8f440fef4aea8
+      internalID: -1289836220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_56
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 2492
+        width: 44
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676b335bcf4f485499f9f2b67e9f7fe9
+      internalID: -1374728512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_57
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 2540
+        width: 52
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be26431516c088a489b27b8d624f6e5f
+      internalID: -437385360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_58
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 2444
+        width: 20
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e614d64f83a6341beb95b610704ab6
+      internalID: -322030846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_59
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 2548
+        width: 32
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae4894e68feb574983291d847085f2c
+      internalID: 236138319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_60
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 2544
+        width: 36
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c264b2692baa75a408e756852944c705
+      internalID: -2100143956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_61
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2472
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb499e047baadd45bf9b526ac83a9fc
+      internalID: -1967084751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_62
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2492
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df11647dae48704c9c51d4711ce0cf5
+      internalID: -1475944581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_63
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2480
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a027a3165f6194eb1b8d34b0c8b3e0
+      internalID: 1930898658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_64
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 2488
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eb887015d374c4592327ca3cdc9128
+      internalID: -1837158288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_65
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 2192
+        width: 132
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e31de97e44a17941a59a2a1e20faac2
+      internalID: -1733693782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_66
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2476
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f34e8b188dd54e45a23b7085edb277e
+      internalID: -2101289350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_67
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 2188
+        width: 112
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331822211e3d9274f95ea65cdfbcc143
+      internalID: -2096499184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_68
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2432
+        width: 144
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8026be409655a4d9cb901472b4bc53
+      internalID: -1649658516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_69
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2436
+        width: 164
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ea7d30bd79141428ef83529ca4c2f0
+      internalID: 229794944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_70
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2460
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d63414c91332145a7e4ba7ff3dfbdb
+      internalID: 1745376745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_71
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862c271476c6c5f45a8d64f2236f8b64
+      internalID: -218108484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_72
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2420
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b853edd4c63c6a4f9acc23a9f067ec3
+      internalID: -314308730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_73
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2308
+        width: 212
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a392c63e6fb5f044bc5eeb1675c385e
+      internalID: 2032747256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_74
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2392
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69718ad6ff5e7c74f95ffa4949bef2e0
+      internalID: -727511074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_75
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2400
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2846e8b02e39d6444abf86708b236023
+      internalID: 460865588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_76
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2368
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07e4a73601c7834489674010ab9dfb8
+      internalID: 1308826013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_77
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2328
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1d148fbb3d8bd4fba1af90df429034
+      internalID: -1398474508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_78
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 2352
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb6ee9d3992c834f8e2e7e71f651bee
+      internalID: 2061842084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_79
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2364
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992d8001e94d2a445858e88fc8c9247e
+      internalID: 536201182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_80
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2344
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392e003fd4c94644e92c8a7b7b292cc0
+      internalID: 1953841739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_81
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2320
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa676136656ca34ca89e7b534239a0a
+      internalID: -1036087728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_82
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2320
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefa4c7a339b8b249b510636a5485c89
+      internalID: -1714404568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_83
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2308
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d04f44b3c791a4097e1aa11176c213
+      internalID: 1754300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_84
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1932
+        width: 140
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efe789c675c18345b750f70e438c7de
+      internalID: -880003162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_85
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2248
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e786a13c5c774224b933d5f646698400
+      internalID: -99361848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_86
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2252
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561083f49920e4746befd4426c092111
+      internalID: -879396528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_87
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2188
+        width: 136
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1df6147d4ac2ee44ad82dea4be0b831
+      internalID: -1053219135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_88
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2172
+        width: 100
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e5978ad2cae0242a1d912ec7a16fd9
+      internalID: 2085656400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_89
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1944
+        width: 156
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c7c215124876a4f9fe4fa9f444e461
+      internalID: -883161655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_90
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 2256
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd576a9aba6a484aacc07169cba13d1
+      internalID: 925125100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_91
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 2256
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6eb6384e28d9c0418fc9188239793a6
+      internalID: 2115431351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_92
+      rect:
+        serializedVersion: 2
+        x: 3928
+        y: 2256
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9565beb791565954b902d48ba266f67e
+      internalID: -963476191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_93
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 2248
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3147b0a7ca5ab7f4c9d4b8b99b90f72d
+      internalID: 1374285598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_94
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 2240
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb9a51e8e5547646b05b1ed3c0cb395
+      internalID: 548904269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_95
+      rect:
+        serializedVersion: 2
+        x: 3928
+        y: 2240
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04cce1852bf6124ab081d08b1b0ae65
+      internalID: -112720651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_96
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2216
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f3e2f68add0fa4db7f03883d987b39
+      internalID: -89994429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_97
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2220
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce1b61d4468564449b863db43d4ca33
+      internalID: 437172616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_98
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 2240
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdc4dda5e43a064dac728f1b41f15b5
+      internalID: 1601316080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_99
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 2224
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d7e9c8ce98f2147a1553c027db1d8a
+      internalID: -234519530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_100
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 2224
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4579c71b31c0bb47b04cf939feb9799
+      internalID: -2019782509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_101
+      rect:
+        serializedVersion: 2
+        x: 3928
+        y: 2224
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174e30ac0f5e3e64eb5b180a48849a5b
+      internalID: 477709423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_102
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2208
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8449638d5eb739c49b4abc300ff7aeed
+      internalID: -1568342432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_103
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 2208
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afccf550f2cc4c340a382c502bbb9484
+      internalID: -1832706505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_104
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 2208
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651d5579d5770ef47bc068eb79e53e58
+      internalID: -1639955641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_105
+      rect:
+        serializedVersion: 2
+        x: 3928
+        y: 2208
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcdbb8808805a24d8f8082b44664566
+      internalID: 117708929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_106
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 2084
+        width: 348
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5033bfedd96eda4f80ce1f9778826d3
+      internalID: -741641881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_107
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1928
+        width: 200
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d2be9870942384d8a244a242f9f0b5
+      internalID: 230572020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_108
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1924
+        width: 124
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac7963d030eef24a85d2544d6a7206a
+      internalID: 136094981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_109
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1912
+        width: 188
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a989af8de91b04aa08e1d2b54b1c17
+      internalID: -160227503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_110
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1904
+        width: 80
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89468f1a921bcea43a46362bcc49e4a7
+      internalID: 263805354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_111
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1804
+        width: 236
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24bd8f407d12cd47bdbc6cb9a797ba7
+      internalID: 1901602179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_112
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 1868
+        width: 292
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70796d1e11931f248881e8925cadc8ff
+      internalID: 1530001543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_113
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 1820
+        width: 292
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7a4ec466fa23d40b022a7ffb49551e
+      internalID: 305733723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_114
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1412
+        width: 144
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74758e7ed40f86d4f87c8ab8f65e165c
+      internalID: -45639566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_115
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1680
+        width: 228
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e474569a7806b44a11ca804af888cd
+      internalID: -1649768787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_116
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1436
+        width: 76
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce69e7f25b9d3a74a87e21e814a83128
+      internalID: -556171662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_117
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 1420
+        width: 36
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e018ad4fe0de1714b911b29632d9885f
+      internalID: 576173636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_118
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1632
+        width: 360
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c9dda6c840fe542ac8378d196e4dbd
+      internalID: 54072926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_119
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1672
+        width: 180
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602fd0a24ce596a4fab05914698cbc9f
+      internalID: -722683681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_120
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1668
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8cff0bc5063b144b4c10c25908349a
+      internalID: -629919612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_121
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1668
+        width: 108
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98274edb69621df4792c7fbf8115c8d7
+      internalID: -1140637624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_122
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1656
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fb8f120f85db74aa6c3c9c2ad3c41c
+      internalID: -2035681148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_123
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1552
+        width: 216
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5c381dc56d2ba4892982f82b2e4fd0
+      internalID: 525577305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_124
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1556
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9691df00406dc49a29276ea686a692
+      internalID: 2094727321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_125
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 1552
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d6d1d0e26512c409bde1dcc7fa6327
+      internalID: -1568656196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_126
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1420
+        width: 192
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b9cdcf5917dee4d979ae12b0c84f15
+      internalID: 475827354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_127
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1476
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80caaa264fc04c4da7dab6490cb4d84
+      internalID: -1319597684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_128
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 1412
+        width: 240
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2aa478c27237746824bc8a30dd5f0d
+      internalID: 1349713608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_129
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1416
+        width: 172
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79a027732646124db561e54b6a55284
+      internalID: -768471256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_130
+      rect:
+        serializedVersion: 2
+        x: 3852
+        y: 1452
+        width: 96
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd9f310c568fa34a905057385c6080b
+      internalID: 31881104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_131
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1464
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64737f8b84004514e93ccb603d06bd65
+      internalID: 1131419779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_132
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 844
+        width: 548
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f99c93e60e22f49bbeaa9973852d50
+      internalID: -2111321695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_133
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1304
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8266c4e4e7fd3ff4b891052adb8c943b
+      internalID: 1231565260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_134
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1304
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92607423b9960c749a037f3e6d9c2caa
+      internalID: -1463436091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_135
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 1316
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3c4ef69a7073444a27b2f4013f4b9e
+      internalID: -184982202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_136
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 1176
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a097b84bbe34d094c80c8d0eb1be85f0
+      internalID: 677083166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_137
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1184
+        width: 100
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d290e560bc42b408ff0f03e91b6452
+      internalID: -471119153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_138
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 1188
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d13e4b749e136e4a9bfeb36f40c2496
+      internalID: -211631754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_139
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1024
+        width: 360
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef1fb9fe1fe5994aa0c5de6a4af4ac6
+      internalID: 2090781405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_140
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1144
+        width: 308
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960ebf5631222e34ab4ab0c383139aa9
+      internalID: -1236495588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_141
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1076
+        width: 176
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9abf1ee3e3bd9419afefb84b5d829c
+      internalID: 1658699413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_142
+      rect:
+        serializedVersion: 2
+        x: 4036
+        y: 1088
+        width: 36
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7943e5803f95066408de2d4b4cf5cc18
+      internalID: 1331536348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_143
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1144
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c34020230dcbaf4cbea9861ab117781
+      internalID: -1389657480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_144
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 1148
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99281274910f4c440bcc41dbd0b97901
+      internalID: -1112938655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_145
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 1028
+        width: 176
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa9729b719690948aea6eb5ee3ef40d
+      internalID: -1734894822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_146
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 1072
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625287f351342d04a94f821a7e8723df
+      internalID: -988148730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_147
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 1048
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4d55455c0379848950470cbcfff491
+      internalID: 1676231937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_148
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 700
+        width: 76
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d9d617549b5f147907f34a4f76de6c
+      internalID: -2140559528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_149
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 800
+        width: 268
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7ff832dcbe5db498e059156722bda9
+      internalID: 1912253842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_150
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 332
+        width: 172
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdff4c77e92e20c499e8d7150d0aad60
+      internalID: -2079220953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_151
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 768
+        width: 44
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d635b262aec264d87893aa0f058c15
+      internalID: 1743126812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_152
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 752
+        width: 124
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4d83eb151c3da438f560f9890cc02f
+      internalID: 1398243892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_153
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 156
+        width: 644
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd095600ef5e9364880fdfb76b2a1dbe
+      internalID: 418612631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_154
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 416
+        width: 104
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c487b7960c3393049a5414c17b738341
+      internalID: -178683338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_155
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 532
+        width: 232
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eb0019d2088094d96d9c84d4f655c5
+      internalID: -1129381236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_156
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 520
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fae90c34d166b74ca3313c62abff810
+      internalID: -1840070581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_157
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 424
+        width: 176
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32a29dfabd2b564d86dec2afce35df6
+      internalID: 514328717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_158
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 396
+        width: 252
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50602da39aafe264e99f325a335cdab7
+      internalID: -158965267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_159
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 276
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd207be263fbf3f4a9a53efd9343df45
+      internalID: 58181692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_160
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 268
+        width: 236
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0531d49669dd2e479838b19cc6d7f0d
+      internalID: -812120654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_161
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 52
+        width: 388
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aba43c424314584ea9c152aaf200d54
+      internalID: -1558495482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_162
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 168
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c123af9f3890464a96eeda9e7e2c46d
+      internalID: -2047258939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladders_163
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 36
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452bc6ceb54abff4aaf8aeaa4c8c63ed
+      internalID: -1233051359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ladders_45: 805409563
+      Ladders_81: -1036087728
+      Ladders_10: 627350651
+      Ladders_12: 782767014
+      Ladders_78: 2061842084
+      Ladders_102: -1568342432
+      Ladders_120: -629919612
+      Ladders_94: 548904269
+      Ladders_146: -988148730
+      Ladders_30: -2138319415
+      Ladders_84: -880003162
+      Ladders_115: -1649768787
+      Ladders_21: 1579982328
+      Ladders_99: -234519530
+      Ladders_61: -1967084751
+      Ladders_103: -1832706505
+      Ladders_132: -2111321695
+      Ladders_52: 1664641098
+      Ladders_112: 1530001543
+      Ladders_131: 1131419779
+      Ladders_88: 2085656400
+      Ladders_5: -759455569
+      Ladders_121: -1140637624
+      Ladders_67: -2096499184
+      Ladders_151: 1743126812
+      Ladders_27: 164172721
+      Ladders_110: 263805354
+      Ladders_71: -218108484
+      Ladders_97: 437172616
+      Ladders_56: -1374728512
+      Ladders_127: -1319597684
+      Ladders_129: -768471256
+      Ladders_13: 54078085
+      Ladders_160: -812120654
+      Ladders_42: 2108349522
+      Ladders_17: 756744342
+      Ladders_118: 54072926
+      Ladders_100: -2019782509
+      Ladders_107: 230572020
+      Ladders_108: 136094981
+      Ladders_22: 1848980732
+      Ladders_24: 303346757
+      Ladders_37: 1907998485
+      Ladders_59: 236138319
+      Ladders_51: 440388928
+      Ladders_2: -1724889896
+      Ladders_16: -320946504
+      Ladders_63: 1930898658
+      Ladders_80: 1953841739
+      Ladders_89: -883161655
+      Ladders_104: -1639955641
+      Ladders_57: -437385360
+      Ladders_6: -1341497646
+      Ladders_4: -1847359065
+      Ladders_26: 501204497
+      Ladders_15: -1152097177
+      Ladders_98: 1601316080
+      Ladders_154: -178683338
+      Ladders_7: 757042562
+      Ladders_36: 1189481507
+      Ladders_96: -89994429
+      Ladders_105: 117708929
+      Ladders_158: -158965267
+      Ladders_76: 1308826013
+      Ladders_19: -427904592
+      Ladders_145: -1734894822
+      Ladders_85: -99361848
+      Ladders_62: -1475944581
+      Ladders_114: -45639566
+      Ladders_58: -322030846
+      Ladders_74: -727511074
+      Ladders_23: 220255380
+      Ladders_156: -1840070581
+      Ladders_93: 1374285598
+      Ladders_136: 677083166
+      Ladders_32: -697017133
+      Ladders_75: 460865588
+      Ladders_55: -1289836220
+      Ladders_49: -1365048976
+      Ladders_64: -1837158288
+      Ladders_35: 570358104
+      Ladders_109: -160227503
+      Ladders_137: -471119153
+      Ladders_87: -1053219135
+      Ladders_83: 1754300340
+      Ladders_134: -1463436091
+      Ladders_92: -963476191
+      Ladders_95: -112720651
+      Ladders_138: -211631754
+      Ladders_126: 475827354
+      Ladders_29: -532412703
+      Ladders_161: -1558495482
+      Ladders_125: -1568656196
+      Ladders_46: 371268937
+      Ladders_65: -1733693782
+      Ladders_72: -314308730
+      Ladders_44: -711578617
+      Ladders_34: -1037142389
+      Ladders_0: -1899969300
+      Ladders_113: 305733723
+      Ladders_152: 1398243892
+      Ladders_68: -1649658516
+      Ladders_38: -1534520658
+      Ladders_140: -1236495588
+      Ladders_41: 1720631210
+      Ladders_149: 1912253842
+      Ladders_162: -2047258939
+      Ladders_150: -2079220953
+      Ladders_143: -1389657480
+      Ladders_163: -1233051359
+      Ladders_101: 477709423
+      Ladders_82: -1714404568
+      Ladders_77: -1398474508
+      Ladders_111: 1901602179
+      Ladders_119: -722683681
+      Ladders_31: -2044001384
+      Ladders_135: -184982202
+      Ladders_43: -297492302
+      Ladders_39: 1476672183
+      Ladders_139: 2090781405
+      Ladders_8: -348658004
+      Ladders_47: 1955552403
+      Ladders_40: 914620875
+      Ladders_70: 1745376745
+      Ladders_159: 58181692
+      Ladders_90: 925125100
+      Ladders_18: 2087845114
+      Ladders_91: 2115431351
+      Ladders_25: -1500331376
+      Ladders_141: 1658699413
+      Ladders_142: 1331536348
+      Ladders_11: -1069113643
+      Ladders_9: 911402715
+      Ladders_54: -1765078593
+      Ladders_66: -2101289350
+      Ladders_147: 1676231937
+      Ladders_153: 418612631
+      Ladders_155: -1129381236
+      Ladders_50: 1349321518
+      Ladders_48: -1368836607
+      Ladders_73: 2032747256
+      Ladders_79: 536201182
+      Ladders_86: -879396528
+      Ladders_130: 31881104
+      Ladders_53: -1695940842
+      Ladders_116: -556171662
+      Ladders_144: -1112938655
+      Ladders_28: 1367943970
+      Ladders_106: -741641881
+      Ladders_117: 576173636
+      Ladders_14: -1270348716
+      Ladders_148: -2140559528
+      Ladders_69: 229794944
+      Ladders_60: -2100143956
+      Ladders_124: 2094727321
+      Ladders_128: 1349713608
+      Ladders_157: 514328717
+      Ladders_3: 473315927
+      Ladders_122: -2035681148
+      Ladders_123: 525577305
+      Ladders_1: 2016943689
+      Ladders_20: -265773298
+      Ladders_133: 1231565260
+      Ladders_33: 37424289
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
