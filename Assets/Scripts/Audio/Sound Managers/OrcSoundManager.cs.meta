@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b2a61f4db279b2244a155495f4fd0728
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - idle: {instanceID: 0}
+  - walking: {instanceID: 0}
+  - snowWalking: {instanceID: 0}
+  - boxWalking: {instanceID: 0}
+  - climbing: {instanceID: 0}
+  - casting: {instanceID: 0}
+  - snow: {fileID: 6200000, guid: 61a7a43860e57c04ab0ccb1661f333ca, type: 2}
+  - wood: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
